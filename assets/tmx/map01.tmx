@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="mapchip" tilewidth="16" tileheight="16">
+  <image source="gfx/mapchip.png" trans="ffffff" width="128" height="1056"/>
+ </tileset>
+ <layer name="ベースレイヤー" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9WTMRKAMAgE8xV4Un6oVmqlflAKC4YB4ykpLLa4ZHIDB6FSCjnwhXf3hmw/Mn5V4WnErzZA+uXgfeTHD8iYg/UbhFGYwH6j2mZhEdYPfvp8E3bhAOeblVtrj3V+nkbr0/l5Gp2Hzc9qZG8ycryrNXO3e/ylXn/zj5w6owW4QAYAAA==
+  </data>
+ </layer>
+</map>
